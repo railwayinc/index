@@ -1,7 +1,16 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
+
+#header2-m P {
+  font-family: 'Lora', serif;
+  font-size: 25px;
+}
+#header2-m H1 {
+  font-size: 48px;
+  font-family: 'Lora', serif;
+}
 #menu-2 .mbr-brand__name {
   font-size: 16px;
 }
@@ -17,14 +26,15 @@
 #menu-2 .mbr-brand__name a {
   font-family: 'Open Sans', sans-serif;
 }
-#slider-7 H1 {
-  text-align: center;
-  font-family: 'Lora', serif;
-  font-size: 84px;
-}
-#slider-7 P {
-  font-size: 36px;
-}
 #content4-d P {
   text-align: center;
+}
+#content4-e P {
+  text-align: center;
+}
+#form2-g .mbr-header__text {
+  color: #ffffff;
+}
+#social-buttons2-j .mbr-header__text {
+  color: #ffffff;
 }
